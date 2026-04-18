@@ -1,5 +1,5 @@
 ---
-title: XSS
+title: <img src=1 onerror=alert(Hut1an)>
 date: 2026-01-26 10:00:00 +0800
 categories: [攻防,内网]
 tags: [攻防]
